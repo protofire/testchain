@@ -1,5 +1,6 @@
 {
   "name": "@makerdao/testchain",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
     "ganache-cli": "^6"
